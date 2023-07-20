@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Application.deps.json
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Application.runtimeconfig.json
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Application.dll
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Application.pdb
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Domain.dll
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net7.0\OnlineShop.Domain.pdb
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.csproj.CopyComplete
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.dll
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\refint\OnlineShop.Application.dll
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.pdb
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\OnlineShop.Application.genruntimeconfig.cache
+C:\Users\user\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net7.0\ref\OnlineShop.Application.dll
